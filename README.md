@@ -1,7 +1,7 @@
 <h1 align="center"><b><i>Encrypt_PY</i></b></h1>
 <p align="center"><b>Tools for encrypting Python code</b></p>
 
-<img src="img/Enc.png"></img>
+<img src="Img/Enc.png"></img>
 
 <p align="center"><b>Alat untuk Mengenkripsi kode Python</b></p>
 
