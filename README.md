@@ -15,3 +15,6 @@ $ cd Encrypt_PY
 $ python3 run.py
 
 ```
+
+```python
+print("Good Luck!")
