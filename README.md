@@ -1,6 +1,10 @@
 <h1 align="center"><b><i>Encrypt_PY</i></b></h1>
 <p align="center"><b>Tools for encrypting Python code</b></p>
 
+## ☕ Orang baik
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
+
 <img src="Img/Enc.png"></img>
 
 <p align="center"><b>Alat untuk Mengenkripsi kode Python</b></p>
