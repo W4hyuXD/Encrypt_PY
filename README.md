@@ -1,13 +1,11 @@
-<h1 align="center"><b><i>Encrypt_PY</i></b></h1>
+![Image](https://github.com/user-attachments/assets/0d37fd67-c2e9-451d-a5e7-e862eba45083)
 <p align="center"><b>Tools for encrypting Python code</b></p>
 
 ## ☕ Orang baik
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
 
-<img src="Img/Enc.png"></img>
 
-<p align="center"><b>Alat untuk Mengenkripsi kode Python</b></p>
 
 ```bash
 $ pkg update -y && pkg upgrade -y
